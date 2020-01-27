@@ -10,4 +10,4 @@ William Stubner
 ## Project 1
 
 1. ...
-[blumenstock reading] 
+[blumenstock reading] (https://github.com/will-stubner/workshop/blob/master/Blumenstock.md)
