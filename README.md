@@ -10,3 +10,4 @@ William Stubner
 ## Project 1
 
 1. ...
+[blumenstock reading] 
