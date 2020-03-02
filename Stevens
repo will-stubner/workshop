@@ -1,0 +1,20 @@
+The authors use the random forest model of population distribution throughout low and middle income countries. The random forest model
+functions by using various types of data to prodcue an estiamte of the population of humans living in a roughly 100 square meter gridcell.
+It uses administrative divisions to more accurately predict the number of people living in a certain area. It uses an algorithim that
+combines census datat estimates of population, night lights, and estimated land coverage. It also  includes data about the distribution of healthcare facilites, roads and education to estimate the populaiton that may be in a certain area, as more ruarl areas are unlikely to have these kinds of facilities, and the location of these areas can be very easily determined. A machine learning algorithm is a program that
+uses data to make informed guesses about how a population is distributed based on previously known data. For example, in this article
+the random forest program can estimate what the population of an area is based on data that has already been put in more accurately than a 
+traditional statistical approach. The distinguishing feature of a machine learning algorithim is that the computer can analyze data and 
+make a prediction about the local population density based solely on previoiulsy known data. While doing the analysis by hand would be possible, it would take a very long time and would quickly become inaccurate as population distributions change. By using continuous data from remote sensing objects like sattellites, machine learning algorithmns can easily update the estimated population distributions of areas at a rapid pace. The author uses a huge number of covariates for
+each gridcell included in the analysis, including land cover estimates and night light estiamtes gathered from satellite data.
+It also includes manually gathered data such as the location of health facilities and roads, often a good predictor of population.There are a 
+huge number of covariates, as the data included hundreds of millions of gridcells, each with its own covariate data, which had to be
+weighted based on its signifigance to the overall likely population. The growth of high accuracy depictions of the distribution of human
+population will be hugely signifigant when it comes to development. Many LMIC countries are struggling to keep track of and provide services
+to their populations, which are often growing at a rapid pace around major urban centers. A more effective estimate of population distribution
+will allow for enhancements in the providing of emergency services in the case of natural disasters, better urban planning, and a more
+coordinated response to events such as disease outbreaks. Population distribution data will greatly enhance the ability of governments
+and NGOs to provide the services that they need to provide to increase human capacity. I am interested in the distribution of population
+moving away from ruarl areas and to urban ones, and the levels of education and healthcare available in the poor areas of major cities in
+Jordan. While many cities have excellent health facilites, they are often concentrated in the most upscale and wealthy areas of the city
+I do not know much about the distribution of educational facilities throughout the city, but I would not be surprised if many of the more impoverished eastern ends of the city, which have seen rapid growth in the past 30 years, lack adaquete educational and health facilites.
