@@ -31,3 +31,5 @@ This one was pretty difficult to make. I had trouble naming the variables and wh
 This one was not too hard to make. But it was way harder to combine the plots later.
 (https://github.com/will-stubner/workshop/blob/master/plot_doesnt_work.pdf)
 I do not know why this is not working but for some reason everthing is working except for the colors on my bar graph where not working. I do not know why but I tried to get it done by adding some parentheses to the thing.
+Response to Stevens
+(https://github.com/will-stubner/workshop/blob/master/Stevens)
