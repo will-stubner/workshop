@@ -47,6 +47,6 @@ First we have the Model. As you can see the model does a fairly accuarte job at 
 ![](https://github.com/will-stubner/workshop/blob/master/pop_model.PNG)
 
 Next we have the population differences in the enitre country. Again, the refugee camps stand out near Irbid and Amman, where low electrification leads to lower predicted values.
-[](https://github.com/will-stubner/workshop/blob/master/pop_differences.PNG)	
+![](https://github.com/will-stubner/workshop/blob/master/pop_differences.PNG)	
 Finally, the Amman District includes the large Ba'qaa refugee camp in the north, which reports a signfigant undercount.
-[](https://github.com/will-stubner/workshop/blob/master/pop_differences.PNG)	
+![](https://github.com/will-stubner/workshop/blob/master/AMMAN_POP_zoom.png)	
