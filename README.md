@@ -50,3 +50,14 @@ Next we have the population differences in the enitre country. Again, the refuge
 ![](https://github.com/will-stubner/workshop/blob/master/pop_differences.PNG)	
 Finally, the Amman District includes the large Ba'qaa refugee camp in the north, which reports a signfigant undercount.
 ![](https://github.com/will-stubner/workshop/blob/master/AMMAN_POP_zoom.png)	
+
+
+
+
+
+Al-Balqa Urban Areas
+Al-Balqa is a very sparesely populated area near the city of Salt in the Balqa governate. I suspect that much of the population simply commutes to Salt for work most days, as is common in Jordan
+
+
+
+In the road network, you can see the Royal Highway in the southern edge of the province, which runs north to south across the country
