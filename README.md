@@ -62,4 +62,4 @@ Al-Balqa is a very sparesely populated area near the city of Salt in the Balqa g
 
 
 In the road network, you can see the Royal Highway in the southern edge of the province, which runs north to south across the country
-![](https://github.com/will-stubner/workshop/blob/master/roads.pdf)	
+![](https://github.com/will-stubner/workshop/blob/master/roads.PNG)	
