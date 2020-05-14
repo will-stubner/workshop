@@ -65,3 +65,12 @@ Al-Balqa is a very sparesely populated area near the city of Salt in the Balqa g
 
 In the road network, you can see the Royal Highway in the southern edge of the province, which runs north to south across the country. Underscroing a theme that is common throughout Jordan, this relatively ruarl district has no healthcare facilites. I wanted to compare this to the nearby city of Salt, but my computer was unable to run a bandwith command for the city, despite its relatively modest size. This was very dissapointing, as I wanted to compare a refugee area to a certain part of Amman later. However, my computer had great difficulty for whatever reason running the bandwith command on any area with a population greater than about 50,000 people. I therefore focused my analysis on the Balqa district.
 ![](https://github.com/will-stubner/workshop/blob/master/roads.PNG)	
+
+
+
+
+Project Four was very technically difficult, and I am stil trying to work through coding difficulties I encountered while doing my project. However, I did manage to get some interesting results
+
+![](https://github.com/will-stubner/workshop/blob/master/balqatopo.PNG)	
+Most of the population lives in villages in valleys along the ridgeline in the center of the area. Major roads do not pass into this heavily moutanious terrian. This underscores teh difficulties that ruarl populations in Jordan face when recieving services from local and national governments, and suggests potentially problematic situations in the future, excaterbating existing tensions between the haves and the have nots in Jordanian society. The topographic map below gives an idea how rapidly topograhpy in Jordan can change. In fact, the city of Amman is known for the Seven Hills that it is built on. 
+![](https://github.com/will-stubner/workshop/blob/master/batopotwo.PNG)	
